@@ -2,7 +2,7 @@
 
 # 🏋️‍♂️ Gym Attendance System
 
-The Gym Attendance System is a PHP-based web application designed to streamline gym member management and attendance tracking. Utilizing RFID technology, the system allows for efficient member registration, real-time attendance monitoring, and administrative control, enhancing the overall management of gym operations.([github.com][1])
+The Gym Attendance System is a PHP-based web application designed to streamline gym member management and attendance tracking. Utilizing RFID technology, the system allows for efficient member registration, real-time attendance monitoring, and administrative control, enhancing the overall management of gym operations.
 
 ---
 
@@ -13,7 +13,7 @@ The Gym Attendance System is a PHP-based web application designed to streamline 
 * **Attendance Tracking**: Monitor and record member check-ins and check-outs in real-time.
 * **User Management**: Edit and delete member information as needed.
 * **Admin Authentication**: Secure login system for administrators to manage the platform.
-* **Database Management**: Store and retrieve member and attendance data using MySQL.([github.com][2], [github.com][1])
+* **Database Management**: Store and retrieve member and attendance data using MySQL.
 
 ---
 
