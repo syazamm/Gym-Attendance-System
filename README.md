@@ -22,8 +22,7 @@ The Gym Attendance System is a PHP-based web application designed to streamline 
 * **Frontend**: HTML, CSS, JavaScript
 * **Backend**: PHP
 * **Database**: MySQL
-* **RFID Hardware**: Compatible with standard RFID readers([github.com][1], [github.com][3])
-
+* **RFID Hardware**: Compatible with standard RFID readers
 ---
 
 ## 📁 Project Structure
