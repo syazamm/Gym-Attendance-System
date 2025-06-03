@@ -37,7 +37,7 @@ The Gym Attendance System is a PHP-based web application designed to streamline 
 * `getUID.php`: Fetch UID from the RFID reader.
 * `UIDContainer.php`: Container to hold the UID value.
 * `database.php`: Database connection script.
-* `sql12719550.sql`: SQL file to set up the necessary database tables.([github.com][1], [github.com][2], [github.com][4])
+* `sql12719550.sql`: SQL file to set up the necessary database tables.
 
 ---
 
